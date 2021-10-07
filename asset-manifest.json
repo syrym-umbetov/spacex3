@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spacex_react_js_project-youtube/static/css/main.14ef975e.chunk.css",
+    "main.js": "/spacex_react_js_project-youtube/static/js/main.433bbc02.chunk.js",
+    "main.js.map": "/spacex_react_js_project-youtube/static/js/main.433bbc02.chunk.js.map",
+    "runtime-main.js": "/spacex_react_js_project-youtube/static/js/runtime-main.e6d42b05.js",
+    "runtime-main.js.map": "/spacex_react_js_project-youtube/static/js/runtime-main.e6d42b05.js.map",
+    "static/css/2.0f1110e3.chunk.css": "/spacex_react_js_project-youtube/static/css/2.0f1110e3.chunk.css",
+    "static/js/2.127000b9.chunk.js": "/spacex_react_js_project-youtube/static/js/2.127000b9.chunk.js",
+    "static/js/2.127000b9.chunk.js.map": "/spacex_react_js_project-youtube/static/js/2.127000b9.chunk.js.map",
+    "index.html": "/spacex_react_js_project-youtube/index.html",
+    "static/css/2.0f1110e3.chunk.css.map": "/spacex_react_js_project-youtube/static/css/2.0f1110e3.chunk.css.map",
+    "static/css/main.14ef975e.chunk.css.map": "/spacex_react_js_project-youtube/static/css/main.14ef975e.chunk.css.map",
+    "static/js/2.127000b9.chunk.js.LICENSE.txt": "/spacex_react_js_project-youtube/static/js/2.127000b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6d42b05.js",
+    "static/css/2.0f1110e3.chunk.css",
+    "static/js/2.127000b9.chunk.js",
+    "static/css/main.14ef975e.chunk.css",
+    "static/js/main.433bbc02.chunk.js"
+  ]
+}
